@@ -1,19 +1,20 @@
 import os
 
 
-
-class FileInteractions():
+class FileInteractions:
 
     def __init__(self):
+        script_dir = os.path.dirname(__file__)
+        self.abs_path = script_dir + "/libgenmirrors.txt"
         self.mirrors = []
 
     def readmirrors(self):
-        with open('B:\Projects\GitHub Projects\Book_Downloader_Telegram\libgenmirrors.txt', 'r') as readfile:
+        with open(self.abs_path, 'r') as readfile:
             for line in readfile.readlines():
                 self.mirrors.append(line.strip())
             return self.mirrors
 
     def appendmirrors(self, text):
-        with open('B:\Projects\GitHub Projects\Book_Downloader_Telegram\libgenmirrors.txt', 'a') as appendfile:
+        with open(abs_path, 'a') as appendfile:
             text = text + "\n"
             appendfile.write(text)
