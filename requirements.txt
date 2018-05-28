@@ -7,10 +7,6 @@ click==6.7
 defusedxml==0.5.0
 enum34==1.1.6
 et-xmlfile==1.0.1
-google-api-python-client==1.6.6
-google-assistant-sdk==0.1.0
-google-auth==1.0.0
-google-auth-oauthlib==0.0.1
 googleapis-common-protos==1.5.2
 grab==0.6.40
 grpcio==1.2.1
@@ -44,7 +40,6 @@ rsa==3.4.2
 selection==0.0.13
 six==1.11.0
 sounddevice==0.3.7
-tensorflow==1.0.1
 uritemplate==3.0.0
 urllib3==1.20
 user-agent==0.1.9
@@ -52,4 +47,3 @@ virtualenv==16.0.0
 virtualenv-clone==0.3.0
 weblib==0.1.29
 xlrd==1.1.0
-youtube-dl==2018.5.18
