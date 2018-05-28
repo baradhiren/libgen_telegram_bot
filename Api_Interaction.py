@@ -5,7 +5,7 @@ import urllib
 import libgenapi
 import FileInteractions
 
-TOKEN = "560217157:AAGjIgiP8ZxAH3Bx8fJoYYW42MOBemTkE1w"
+TOKEN = "<Bot_Token>"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 FileObj = FileInteractions.FileInteractions()
 LIBGENOBJ = libgenapi.Libgenapi(FileObj.readmirrors())
