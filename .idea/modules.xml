@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Book_Downloader_Telegram.iml" filepath="$PROJECT_DIR$/.idea/Book_Downloader_Telegram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/libgenbottest.iml" filepath="$PROJECT_DIR$/.idea/libgenbottest.iml" />
     </modules>
   </component>
 </project>

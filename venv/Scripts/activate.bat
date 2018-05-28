@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=B:\Projects\GitHub Projects\Book_Downloader_Telegram\venv"
+set "VIRTUAL_ENV=B:\Projects\GitHub Projects\libgenbottest\venv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"

@@ -1,4 +1,4 @@
-#!"B:\Projects\GitHub Projects\Book_Downloader_Telegram\venv\Scripts\python.exe"
+#!"B:\Projects\GitHub Projects\libgenbottest\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==9.0.3','console_scripts','pip'
 __requires__ = 'pip==9.0.3'
 import re

@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="B:\Projects\GitHub Projects\Book_Downloader_Telegram\venv"
+VIRTUAL_ENV="B:\Projects\GitHub Projects\libgenbottest\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -1,4 +1,4 @@
-#!"B:\Projects\GitHub Projects\Book_Downloader_Telegram\venv\Scripts\python.exe"
+#!"B:\Projects\GitHub Projects\libgenbottest\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'user-agent==0.1.9','console_scripts','ua'
 __requires__ = 'user-agent==0.1.9'
 import re

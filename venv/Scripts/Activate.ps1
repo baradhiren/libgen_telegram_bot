@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="B:\Projects\GitHub Projects\Book_Downloader_Telegram\venv"
+$env:VIRTUAL_ENV="B:\Projects\GitHub Projects\libgenbottest\venv"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name
