@@ -35,4 +35,4 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 
-Investigating the issue a bit, It seems that there are no javascript calls made while a selection is made on the dropdown menu.
+Investigating the issue a bit, It seems that there are no javascript calls made while selecting an option from the dropdown menu.
